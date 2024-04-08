@@ -1,0 +1,6 @@
+- Move ApplicantService.HandleApplicantReview database interactions to DAL
+- Add business logic to HandleApplicantReview?
+
+- Create new xUnit project in same solution
+   - Move sumsub-api project to solution, since it is currently a project without a solution
+- Test ApplicantService.HandleApplicantReview method

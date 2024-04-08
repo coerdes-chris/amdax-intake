@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumsub-api", "sumsub-api\sumsub-api.csproj", "{FA0A9749-5242-46F1-8D90-15A8E5E8F0EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumsub-api-test", "sumsub-api-test\sumsub-api-test.csproj", "{A41FC4DE-E1E6-42CA-8B7E-2DEE58E4CD73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0A9749-5242-46F1-8D90-15A8E5E8F0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0A9749-5242-46F1-8D90-15A8E5E8F0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0A9749-5242-46F1-8D90-15A8E5E8F0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0A9749-5242-46F1-8D90-15A8E5E8F0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41FC4DE-E1E6-42CA-8B7E-2DEE58E4CD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41FC4DE-E1E6-42CA-8B7E-2DEE58E4CD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41FC4DE-E1E6-42CA-8B7E-2DEE58E4CD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41FC4DE-E1E6-42CA-8B7E-2DEE58E4CD73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
